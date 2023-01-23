@@ -8,13 +8,13 @@ class Development(Config):
     # the name to display in your alive message
     ALIVE_NAME = "rishabh"
     # create any PostgreSQL database (i recommend to use elephantsql) and paste that link here
-    DB_URI = "postgres://jrycfssc:fEZMYWiOcO9vB8cIq1_Z97GhW3TiTppJ@tiny.db.elephantsql.com/jrycfssc"
+    DB_URI = "postgres://dnwkixld:q-SaQDtzYsYi4-ELb8-KCxoQSj0qZXQl@satao.db.elephantsql.com/dnwkixld"
     # After cloning the repo and installing requirements do python3 stringsetup.py an fill that value with this
-    STRING_SESSION = "your session"
+    STRING_SESSION = "1BVtsOHABuxFYFvtQxxPrOkw8_J3CxnE00G0Byz9nbqsHRpcpzpxPHYJ3RJUeaz_LM0OB-f8Hp63n1fJyZ9OEVpfTCvwXOk69YDMrcHe96nr7nkvguRTgAoqxKyO5i9KvWUMXYW8nASkJY2SHheMChUc8_g9KJsJN55ZaqK-WwU9e-AMMAD-zGiZhd1QGLaTtB7N_mW-aAuHeWHIn4FHE-JQ39uEfovSCZiMN3SCjHR7r7tD4elCOBJLeGxk7Weu4FaHMc50S8ml1G3CpslK0wux408NxJvdKe5kJPdgvwP2a7LemyoiaeN0K_iUFKAZ2h4BW9SgP7mYsAmNxKPG4iuUNpRDO7O0"
     # create a new bot in @botfather and fill the following vales with bottoken
-    TG_BOT_TOKEN = "your token"
+    TG_BOT_TOKEN = "5897278567:AAHL9VS7qvfQ_OEDWxfvJjdlSdobIHUJIZY"
     # create a private group and a rose bot to it and type /id and paste that id here (replace that -100 with that group id)
-    PRIVATE_GROUP_BOT_API_ID =
+    PRIVATE_GROUP_BOT_API_ID = -1001804739290
     # command handler
     COMMAND_HAND_LER = "."
     VCMODE = "True"
